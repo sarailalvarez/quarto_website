@@ -1,1 +1,1 @@
-Sitemap: https://sarailalvarez.github.io/quarto_website/sitemap.xml
+Sitemap: https://github.com/sarailalvarez/quarto_website/sitemap.xml
